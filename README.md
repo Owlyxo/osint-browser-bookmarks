@@ -45,7 +45,7 @@ Curated OSINT bookmarks for Firefox, Chrome and Brave, sorted by category and im
 ## Additional files
 
 - `bookmarks.html` – core OSINT bookmarks, importable
-- `bookmarks-security-extras.html` – around 2,900 links from awesome lists (pentesting, forensics, malware analysis and more), import only if needed
+- `bookmarks-security-extras.html` – 2,876 links from awesome lists (pentesting, forensics, malware analysis and more), import only if needed
 
 ## Contributing
 

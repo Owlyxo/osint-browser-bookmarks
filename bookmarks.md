@@ -1,6 +1,6 @@
 # OSINT Bookmarks
 
-⭐ = personal favorite. Links were checked with lychee on 2026-10-05; dead links (404/410, invalid certificate) have been removed (see LINKCHECK.md and CONTRIBUTING.md).
+⭐ = personal favorite. Links were checked with lychee on 2026-10-05; dead links (404/410, invalid certificate) have been removed (see docs/LINKCHECK.md and CONTRIBUTING.md).
 
 - [Search Engines](#search-engines) (207)
 - [People and Usernames](#people-and-usernames) (133)
