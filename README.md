@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="OSINT Browser Bookmarks" width="160">
+<img src="logo.png" alt="OSINT Browser Bookmarks" width="160">
 
 # OSINT Browser Bookmarks
 
