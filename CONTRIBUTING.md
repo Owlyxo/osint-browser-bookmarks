@@ -1,26 +1,26 @@
-# Mitmachen
+# Contributing
 
-Vorschläge sind willkommen.
+Suggestions are welcome.
 
-## Neuen Link vorschlagen
+## Suggest a new link
 
-1. Issue oder Pull Request öffnen.
-2. Angeben: Titel, URL, Kategorie, ein Satz zum Nutzen.
-3. Nur frei zugängliche, legale OSINT-Quellen und -Tools.
+1. Open an issue or a pull request.
+2. Include: title, URL, category, and one sentence on why it is useful.
+3. Only freely accessible, legal OSINT sources and tools.
 
-## Regeln
+## Rules
 
-- Keine Affiliate- oder Referral-Links, keine Tracking-Parameter (`utm_*`, `ref=`).
-- Vor dem Eintragen prüfen, ob der Link schon vorhanden ist.
-- `https` bevorzugen.
-- Keine Dienste, die auf Ausspähung von Privatpersonen ausgelegt sind.
+- No affiliate or referral links, no tracking parameters (`utm_*`, `ref=`).
+- Check that the link is not already listed before adding it.
+- Prefer `https`.
+- No services designed to spy on private individuals.
 
-## Links prüfen
+## Checking links
 
-Tote Links finden mit [lychee](https://github.com/lycheeverse/lychee):
+Find dead links with [lychee](https://github.com/lycheeverse/lychee):
 
 ```
 lychee --no-progress bookmarks.md
 ```
 
-Gemeldete tote Links bitte als Issue oder Pull Request mit Ersatz melden.
+Please report dead links as an issue or pull request, with a replacement if you have one.

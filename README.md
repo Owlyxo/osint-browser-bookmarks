@@ -10,47 +10,47 @@
 
 </div>
 
-Kuratierte OSINT-Lesezeichen für Firefox, Chrome und Brave, nach Kategorien sortiert und als HTML-Datei importierbar.
+Curated OSINT bookmarks for Firefox, Chrome and Brave, sorted by category and importable as an HTML file.
 
-## Schnellstart
+## Quick start
 
-1. `bookmarks.html` aus dem [Release](../../releases) herunterladen.
-2. Im Browser importieren:
-   - **Firefox:** Lesezeichen verwalten, Importieren und Sichern, HTML importieren
-   - **Chrome/Brave:** Lesezeichen-Manager, Lesezeichen importieren
-3. Fertig. Die Ordner sind nach Kategorien sortiert.
+1. Download `bookmarks.html` from this repository.
+2. Import it in your browser:
+   - **Firefox:** Manage Bookmarks, Import and Backup, Import Bookmarks from HTML
+   - **Chrome/Brave:** Bookmark Manager, Import bookmarks
+3. Done. The folders are sorted by category.
 
-## Kategorien
+## Categories
 
-1681 Links in 13 Kategorien. Die Liste zum Durchblättern steht in [bookmarks.md](bookmarks.md).
+1681 links in 13 categories. A browsable list is in [bookmarks.md](bookmarks.md).
 
-| Kategorie | Links |
+| Category | Links |
 |---|---|
-| [Suchmaschinen](bookmarks.md#suchmaschinen) | 207 |
-| [Personen und Benutzernamen](bookmarks.md#personen-und-benutzernamen) | 133 |
+| [Search Engines](bookmarks.md#search-engines) | 207 |
+| [People and Usernames](bookmarks.md#people-and-usernames) | 133 |
 | [Social Media](bookmarks.md#social-media) | 89 |
 | [Telegram](bookmarks.md#telegram) | 72 |
-| [Domains, IP und Netzwerk](bookmarks.md#domains-ip-und-netzwerk) | 167 |
-| [Geo, Karten und Verkehr](bookmarks.md#geo-karten-und-verkehr) | 77 |
-| [Bilder, Video und Verifikation](bookmarks.md#bilder-video-und-verifikation) | 129 |
-| [Unternehmen, Daten und Wissenschaft](bookmarks.md#unternehmen-daten-und-wissenschaft) | 147 |
-| [Threat Intelligence und Datenlecks](bookmarks.md#threat-intelligence-und-datenlecks) | 59 |
-| [Darknet, Datenschutz und Pastebins](bookmarks.md#darknet-datenschutz-und-pastebins) | 141 |
-| [News, Blogs und Lernen](bookmarks.md#news-blogs-und-lernen) | 68 |
-| [Weitere Tools](bookmarks.md#weitere-tools) | 52 |
-| [Weitere Ressourcen (osint-bible)](bookmarks.md#weitere-ressourcen-osint-bible) | 340 |
+| [Domains, IP and Network](bookmarks.md#domains-ip-and-network) | 167 |
+| [Geo, Maps and Transport](bookmarks.md#geo-maps-and-transport) | 77 |
+| [Images, Video and Verification](bookmarks.md#images-video-and-verification) | 129 |
+| [Companies, Data and Science](bookmarks.md#companies-data-and-science) | 147 |
+| [Threat Intelligence and Data Leaks](bookmarks.md#threat-intelligence-and-data-leaks) | 59 |
+| [Darknet, Privacy and Pastebins](bookmarks.md#darknet-privacy-and-pastebins) | 141 |
+| [News, Blogs and Learning](bookmarks.md#news-blogs-and-learning) | 68 |
+| [More Tools](bookmarks.md#more-tools) | 52 |
+| [More Resources (osint-bible)](bookmarks.md#more-resources-osint-bible) | 340 |
 
-⭐ markiert persönliche Favoriten.
+⭐ marks personal favorites.
 
-## Zusatzdateien
+## Additional files
 
-- `bookmarks.html` – OSINT-Kern, importierbar
-- `bookmarks-security-extras.html` – rund 2.900 Links aus Awesome-Listen (Pentest, Forensik, Malware-Analyse u. a.), nur bei Bedarf importieren
+- `bookmarks.html` – core OSINT bookmarks, importable
+- `bookmarks-security-extras.html` – around 2,900 links from awesome lists (pentesting, forensics, malware analysis and more), import only if needed
 
-## Mitmachen
+## Contributing
 
-Vorschläge für neue Links sind willkommen, siehe [CONTRIBUTING](CONTRIBUTING.md).
+Suggestions for new links are welcome, see [CONTRIBUTING](CONTRIBUTING.md).
 
-## Lizenz
+## License
 
-MIT, siehe [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE).

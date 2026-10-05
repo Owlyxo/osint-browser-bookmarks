@@ -1,8 +1,8 @@
-﻿# Link-Check bookmarks.md
+# Link check: bookmarks.md
 
-Tote bzw. nicht erreichbare Links (lychee, 2026-10-05). Status 403/429 gelten als erreichbar und fehlen hier.
+Dead or unreachable links (lychee, 2026-10-05). Status 403/429 count as reachable and are not listed here.
 
-| # | Status | URL | Grund |
+| # | Status | URL | Reason |
 |---|---|---|---|
 | 1 | ERROR | https://academic.research.microsoft.com/ | Connection failed. Check network connectivity and firewall settings |
 | 2 | ERROR | https://beakernotebook.com/ | SSL certificate hostname mismatch. Check URL spelling |
@@ -12,8 +12,8 @@ Tote bzw. nicht erreichbare Links (lychee, 2026-10-05). Status 403/429 gelten al
 | 6 | TIMEOUT | https://browser.ru/ | Request timed out |
 | 7 | 503 | https://builtwithflarum.com/ | Rejected status code: 503 Service Unavailable |
 | 8 | ERROR | https://castrickclues.com/ | Connection failed. Check network connectivity and firewall settings |
-| 9 | ERROR | https://centralops.net/ | Network error: Eine vorhandene Verbindung wurde vom Remotehost geschlossen. (os error 10054) |
-| 10 | ERROR | https://centralops.net/co/DomainDossier.aspx | Network error: Eine vorhandene Verbindung wurde vom Remotehost geschlossen. (os error 10054) |
+| 9 | ERROR | https://centralops.net/ | Network error: connection closed by remote host (os error 10054) |
+| 10 | ERROR | https://centralops.net/co/DomainDossier.aspx | Network error: connection closed by remote host (os error 10054) |
 | 11 | 404 | https://checkuser.vercel.app/ | Rejected status code: 404 Not Found |
 | 12 | ERROR | https://circos.ca/ | SSL certificate error. Check certificate validity |
 | 13 | TIMEOUT | https://citeseer.ist.psu.edu/ | Request timed out |
@@ -24,7 +24,7 @@ Tote bzw. nicht erreichbare Links (lychee, 2026-10-05). Status 403/429 gelten al
 | 18 | ERROR | https://detectiva.link/rezervBot | Connection failed. Check network connectivity and firewall settings |
 | 19 | ERROR | https://donottrack.us/ | Connection refused - server may be down or port blocked |
 | 20 | ERROR | https://doxbin.net/ | Connection failed. Check network connectivity and firewall settings |
-| 21 | ERROR | https://duckduckgo.com/ | Network error: Eine vorhandene Verbindung wurde vom Remotehost geschlossen. (os error 10054) |
+| 21 | ERROR | https://duckduckgo.com/ | Network error: connection closed by remote host (os error 10054) |
 | 22 | 400 | https://emailrep.io/ | Rejected status code: 400 Bad Request |
 | 23 | ERROR | https://exif.regex.info/ | SSL certificate hostname mismatch. Check URL spelling |
 | 24 | ERROR | https://feed.exileed.com/ | SSL certificate error. Check certificate validity |
@@ -113,7 +113,7 @@ Tote bzw. nicht erreichbare Links (lychee, 2026-10-05). Status 403/429 gelten al
 | 107 | ERROR | https://www.magportal.com/ | SSL certificate not trusted. Use --insecure if site is trusted |
 | 108 | ERROR | https://www.metacafe.com/ | Connection failed. Check network connectivity and firewall settings |
 | 109 | 404 | https://www.oecd-ilibrary.org/economics/oecd-factbook_18147364 | Rejected status code: 404 Not Found |
-| 110 | ERROR | https://www.orange.fr/ | Network error: Eine vorhandene Verbindung wurde vom Remotehost geschlossen. (os error 10054) |
+| 110 | ERROR | https://www.orange.fr/ | Network error: connection closed by remote host (os error 10054) |
 | 111 | 404 | https://www.osintcombine.com/blog-feed.xml | Rejected status code: 404 Not Found |
 | 112 | ERROR | https://www.pageglimpse.com/ | Connection failed. Check network connectivity and firewall settings |
 | 113 | 404 | https://www.redditarchive.com/ | Rejected status code: 404 Not Found |
@@ -132,14 +132,14 @@ Tote bzw. nicht erreichbare Links (lychee, 2026-10-05). Status 403/429 gelten al
 | 126 | ERROR | https://www.trellix.com/en-us/about/newsroom/stories/research.html | HTTP/2 protocol error. Server may not support HTTP/2 properly |
 | 127 | ERROR | https://www.twittersentiment.appspot.com/ | SSL certificate hostname mismatch. Check URL spelling |
 | 128 | 404 | https://www.unido.org/resources/statistics/statistical-databases.html | Rejected status code: 404 Not Found |
-| 129 | ERROR | https://www.uvrx.com/social.html | Network error: Eine vorhandene Verbindung wurde vom Remotehost geschlossen. (os error 10054) |
+| 129 | ERROR | https://www.uvrx.com/social.html | Network error: connection closed by remote host (os error 10054) |
 | 130 | ERROR | https://www.veoh.com/ | Connection failed. Check network connectivity and firewall settings |
 | 131 | ERROR | https://www.worldlicenseplates.com/ | SSL certificate not trusted. Use --insecure if site is trusted |
 | 132 | ERROR | https://zetoc.jisc.ac.uk/ | Connection failed. Check network connectivity and firewall settings |
 
-# Link-Check bookmarks-security-extras.md
+# Link check: bookmarks-security-extras.md
 
-| # | Status | URL | Grund |
+| # | Status | URL | Reason |
 |---|---|---|---|
 | 1 | ERROR | http://2012.ruxcon.org.au/slides/ | Connection failed. Check network connectivity and firewall settings |
 | 2 | ERROR | http://2013.ruxcon.org.au/slides/ | Connection failed. Check network connectivity and firewall settings |

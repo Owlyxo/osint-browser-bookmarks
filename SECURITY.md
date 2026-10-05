@@ -1,11 +1,11 @@
-# Sicherheit
+# Security
 
-Dieses Repository enthält nur Links, keinen ausführbaren Code. Die verlinkten Seiten stehen nicht unter meiner Kontrolle.
+This repository contains only links, no executable code. The linked sites are not under my control.
 
-## Problem melden
+## Reporting a problem
 
-Verdächtige, kompromittierte oder schädliche Links bitte über **Security → Report a vulnerability** im Repository melden oder ein Issue öffnen. Betroffene Links werden zeitnah entfernt.
+Please report suspicious, compromised or malicious links via **Security → Report a vulnerability** in this repository, or open an issue. Affected links will be removed promptly.
 
-## Hinweis zur Nutzung
+## Usage note
 
-OSINT-Quellen am besten in einer isolierten Umgebung (eigenes Browserprofil oder VM) öffnen und keine privaten Konten mit Recherche-Tools verknüpfen.
+Open OSINT sources in an isolated environment (a separate browser profile or a VM) and do not link personal accounts to research tools.

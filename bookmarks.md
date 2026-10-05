@@ -1,22 +1,22 @@
 # OSINT Bookmarks
 
-⭐ = persönlicher Favorit. Links wurden am 2026-10-05 mit lychee geprüft, tote Links (404/410, ungültiges Zertifikat) sind entfernt (siehe LINKCHECK.md und CONTRIBUTING.md).
+⭐ = personal favorite. Links were checked with lychee on 2026-10-05; dead links (404/410, invalid certificate) have been removed (see LINKCHECK.md and CONTRIBUTING.md).
 
-- [Suchmaschinen](#suchmaschinen) (207)
-- [Personen und Benutzernamen](#personen-und-benutzernamen) (133)
+- [Search Engines](#search-engines) (207)
+- [People and Usernames](#people-and-usernames) (133)
 - [Social Media](#social-media) (89)
 - [Telegram](#telegram) (72)
-- [Domains, IP und Netzwerk](#domains-ip-und-netzwerk) (167)
-- [Geo, Karten und Verkehr](#geo-karten-und-verkehr) (77)
-- [Bilder, Video und Verifikation](#bilder-video-und-verifikation) (129)
-- [Unternehmen, Daten und Wissenschaft](#unternehmen-daten-und-wissenschaft) (147)
-- [Threat Intelligence und Datenlecks](#threat-intelligence-und-datenlecks) (59)
-- [Darknet, Datenschutz und Pastebins](#darknet-datenschutz-und-pastebins) (141)
-- [News, Blogs und Lernen](#news-blogs-und-lernen) (68)
-- [Weitere Tools](#weitere-tools) (52)
-- [Weitere Ressourcen (osint-bible)](#weitere-ressourcen-osint-bible) (340)
+- [Domains, IP and Network](#domains-ip-and-network) (167)
+- [Geo, Maps and Transport](#geo-maps-and-transport) (77)
+- [Images, Video and Verification](#images-video-and-verification) (129)
+- [Companies, Data and Science](#companies-data-and-science) (147)
+- [Threat Intelligence and Data Leaks](#threat-intelligence-and-data-leaks) (59)
+- [Darknet, Privacy and Pastebins](#darknet-privacy-and-pastebins) (141)
+- [News, Blogs and Learning](#news-blogs-and-learning) (68)
+- [More Tools](#more-tools) (52)
+- [More Resources (osint-bible)](#more-resources-osint-bible) (340)
 
-## Suchmaschinen
+## Search Engines
 
 - ⭐ [4chan Search](https://4chansearch.com/)
 - ⭐ [Academia](https://academia.edu/)
@@ -226,7 +226,7 @@
 - [ZoomEye](https://www.zoomeye.ai/)
 - [Ответы](https://otvet.mail.ru/)
 
-## Personen und Benutzernamen
+## People and Usernames
 
 - ⭐ [FamilyTreeNow](https://familytreenow.com/)
 - ⭐ [Glassdoor](https://www.glassdoor.com/)
@@ -529,7 +529,7 @@
 - [WhoisDomBot](https://t.me/WhoisDomBot)
 - [Фари](https://telegram.me/faribybot)
 
-## Domains, IP und Netzwerk
+## Domains, IP and Network
 
 - ⭐ [Amass](https://github.com/owasp-amass/amass)
 - ⭐ [Archive.is](https://archive.is/)
@@ -699,7 +699,7 @@
 - [Winds](https://winds.getstream.io/)
 - [You Get Signal](https://www.yougetsignal.com/)
 
-## Geo, Karten und Verkehr
+## Geo, Maps and Transport
 
 - ⭐ [EpicVIN](https://epicvin.com/)
 - ⭐ [FaxVIN](https://www.faxvin.com/)
@@ -779,7 +779,7 @@
 - [Zeemaps](https://www.zeemaps.com/)
 - [Zoom Earth](https://zoom.earth/)
 
-## Bilder, Video und Verifikation
+## Images, Video and Verification
 
 - ⭐ [Canva](https://www.canva.com/)
 - ⭐ [Datawrapper](https://datawrapper.de/)
@@ -911,7 +911,7 @@
 - [YouTube Metadata](https://mattw.io/youtube-metadata/)
 - [ZingChart](https://www.zingchart.com/)
 
-## Unternehmen, Daten und Wissenschaft
+## Companies, Data and Science
 
 - ⭐ [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
 - ⭐ [EDGAR U.S. Securities and Exchange Commission Filings](https://www.edgar-online.com/)
@@ -1061,7 +1061,7 @@
 - [YouControl](https://youcontrol.com.ua/en/)
 - [Zetoc](https://zetoc.jisc.ac.uk/)
 
-## Threat Intelligence und Datenlecks
+## Threat Intelligence and Data Leaks
 
 - ⭐ [Check Point Live Cyber Threat Map](https://threatmap.checkpoint.com/)
 - ⭐ [CheckLeaked](https://checkleaked.cc/)
@@ -1123,7 +1123,7 @@
 - [World Monitor Tech](https://tech.worldmonitor.app/)
 - [Zscaler Global Threat Map Dashboard](https://threatlabz.zscaler.com/cloud-insights/threat-map-dashboard)
 
-## Darknet, Datenschutz und Pastebins
+## Darknet, Privacy and Pastebins
 
 - ⭐ [Ahmia](https://ahmia.fi/)
 - ⭐ [Aleph Open Search](https://open-search.aleph-networks.eu/)
@@ -1267,7 +1267,7 @@
 - [ZBin](https://zbin.dev/)
 - [ZMail](https://zmail.sourceforge.net/)
 
-## News, Blogs und Lernen
+## News, Blogs and Learning
 
 - ⭐ [Aware-online.com](https://www.aware-online.com/en/osint-tools)
 - ⭐ [BBC News](https://www.bbc.co.uk/news)
@@ -1338,7 +1338,7 @@
 - [WorldNews](https://wn.com/)
 - [Yahoo News](https://news.yahoo.com/)
 
-## Weitere Tools
+## More Tools
 
 - ⭐ [Maltego](https://www.maltego.com/)
 - ⭐ [OSINT Framework](https://osintframework.com/)
@@ -1393,7 +1393,7 @@
 - [Waybackurls](https://github.com/tomnomnom/waybackurls)
 - [Zen](https://github.com/s0md3v/Zen)
 
-## Weitere Ressourcen (osint-bible)
+## More Resources (osint-bible)
 
 - [360 Quake](https://quake.360.net/)
 - [Abster-Intelligence](https://github.com/frangelbarrera/Abster-Intelligence)

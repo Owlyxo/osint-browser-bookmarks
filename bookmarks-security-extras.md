@@ -1,6 +1,6 @@
 # Security Extras
 
-Gesammelte Links aus Awesome-Listen zu Pentest, Forensik, Malware-Analyse u. a. Nicht OSINT-Kern.
+Collected links from awesome lists on pentesting, forensics, malware analysis and more. Not core OSINT.
 
 - [Related Awesome Lists](#related-awesome-lists) (18)
 - [awesome-anti-forensic](#awesome-anti-forensic) (138)

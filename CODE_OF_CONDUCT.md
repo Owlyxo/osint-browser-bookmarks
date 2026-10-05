@@ -1,7 +1,7 @@
-# Verhaltenskodex
+# Code of Conduct
 
-Wir pflegen einen respektvollen, sachlichen Umgang. Nicht akzeptiert werden Beleidigungen, Belästigung und das Veröffentlichen privater Daten Dritter.
+We maintain a respectful and factual tone. Insults, harassment and publishing third parties' private data are not accepted.
 
-Mitwirkende, die dagegen verstoßen, können von Issues und Pull Requests ausgeschlossen werden. Meldungen bitte per Issue oder über die Kontaktmöglichkeiten im Profil des Maintainers.
+Contributors who violate this may be excluded from issues and pull requests. Please report violations via an issue or through the contact options on the maintainer's profile.
 
-Dieser Kodex orientiert sich am Contributor Covenant.
+This code is based on the Contributor Covenant.
