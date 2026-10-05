@@ -1,6 +1,6 @@
 # OSINT Bookmarks
 
-⭐ = persönlicher Favorit. Links wurden noch nicht automatisch auf Erreichbarkeit geprüft (siehe CONTRIBUTING.md).
+⭐ = persönlicher Favorit. Links wurden am 2026-10-05 mit lychee geprüft, tote Links (404/410, ungültiges Zertifikat) sind entfernt (siehe LINKCHECK.md und CONTRIBUTING.md).
 
 - [Suchmaschinen](#suchmaschinen) (207)
 - [Personen und Benutzernamen](#personen-und-benutzernamen) (133)
@@ -623,7 +623,7 @@
 - [Mention](https://en.mention.com/)
 - [Merklemap](https://www.merklemap.com/)
 - [MetaDefender](https://metadefender.com/)
-- [Netcraft Site Report](https://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
+- [Netcraft Site Report](https://sitereport.netcraft.com/)
 - [Newsblur](https://newsblur.com/)
 - [Offliberty](https://offliberty.com/)
 - [OmeaReader](https://www.jetbrains.com/omea/reader)
